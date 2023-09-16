@@ -20,6 +20,12 @@
             <url>https://maven.pkg.github.com/bhatsac/maven-public</url>
         </repository>
     </distributionManagement>
+    <dependencies>
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>github-package-example</artifactId>
+        </dependency>
+    </dependencies>
     <dependencyManagement>
         <dependencies>
             <dependency>
