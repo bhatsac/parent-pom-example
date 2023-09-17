@@ -1,2 +1,2 @@
 # parent-pom-example
-parent pom for all child projects
+parent pom for all child projects.
